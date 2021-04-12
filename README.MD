@@ -11,3 +11,4 @@ So far, I have completed:
 - [x] [Day 4](/Day4_RockPaperScissors).
 - [x] [Day 5](/Day5_PasswordGenerator).
 - [x] [Day 6](/Day6_MazeEscape).
+- [x] [Day 7](/Day7_Hangman).
