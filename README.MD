@@ -12,3 +12,6 @@ So far, I have completed:
 - [x] [Day 5](/Day5_PasswordGenerator).
 - [x] [Day 6](/Day6_MazeEscape).
 - [x] [Day 7](/Day7_Hangman).
+- [x] [Day 8](/Day8_CaesarCypher).
+- [x] [Day 9](/Day9_SilentBid).
+- [x] [Day 10](/Day10_Calculator).
